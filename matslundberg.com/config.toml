@@ -1,4 +1,4 @@
-baseurl = "http://matslundberg.com:2015/"
+baseurl = "http://matslundberg.com/"
 languageCode = "en-US"
 title = "Mats Lundberg"
 # Enable comments by entering your Disqus shortname
@@ -11,7 +11,7 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "profile.jpg"
   author = "Mats Lundberg"
   description = "Driven Software Engineer with Management experience and a passion for Products."
 
