@@ -1,8 +1,8 @@
-baseurl = "http://matslundberg.com:2015/"
+baseurl = "https://example.com/"
 languageCode = "en-US"
-title = "Mats Lundberg"
+title = "Chris Turner"
 # Enable comments by entering your Disqus shortname
-#disqusShortname = ""
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
@@ -12,19 +12,19 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "profile.png"
-  author = "Mats Lundberg"
-  description = "Driven Software Engineer with Management experience and a passion for Products."
+  author = "Chris Turner"
+  description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
   custom_js  = []
 
 [params.social]
-  Github        = "matslundberg"
-  Email         = "mats.lundberg@gmail.com"
-  Twitter       = "matslundberg"
-  LinkedIn      = "matslundberg"
-#  Stackoverflow = "username"
+  Github        = "username"
+  Email         = "email@example.com"
+  Twitter       = "username"
+  LinkedIn      = "username"
+  Stackoverflow = "username"
 
 ## Main Menu
 [[menu.main]]
